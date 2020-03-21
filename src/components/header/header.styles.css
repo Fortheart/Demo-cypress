@@ -1,0 +1,53 @@
+header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 70px;
+    background-color: #282c34;
+    color: white;
+    
+}
+.navTag{
+    text-decoration: none;
+    color: white;
+    margin: 0 20px;
+}
+
+.Header-logo {
+    height: 10vmin;
+    pointer-events: none;
+    float: left;
+    margin-right: 40%;
+    margin-left: 20%;
+  }
+nav {
+    margin-top: 20px;
+    width: 30%;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  /*ANIMATION*/
+
+  @media (prefers-reduced-motion: no-preference) {
+    .Header-logo {
+      animation: Header-logo-spin infinite 20s linear;
+    }
+  }
+  @keyframes Header-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
