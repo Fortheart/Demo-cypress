@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Demo-cypress/static/css/main.e917693d.chunk.css",
+    "main.js": "/Demo-cypress/static/js/main.654f50af.chunk.js",
+    "main.js.map": "/Demo-cypress/static/js/main.654f50af.chunk.js.map",
+    "runtime-main.js": "/Demo-cypress/static/js/runtime-main.6e715695.js",
+    "runtime-main.js.map": "/Demo-cypress/static/js/runtime-main.6e715695.js.map",
+    "static/js/2.2780c80b.chunk.js": "/Demo-cypress/static/js/2.2780c80b.chunk.js",
+    "static/js/2.2780c80b.chunk.js.map": "/Demo-cypress/static/js/2.2780c80b.chunk.js.map",
+    "index.html": "/Demo-cypress/index.html",
+    "precache-manifest.059b39ce019b2035e4f2071ac5489122.js": "/Demo-cypress/precache-manifest.059b39ce019b2035e4f2071ac5489122.js",
+    "service-worker.js": "/Demo-cypress/service-worker.js",
+    "static/css/main.e917693d.chunk.css.map": "/Demo-cypress/static/css/main.e917693d.chunk.css.map",
+    "static/js/2.2780c80b.chunk.js.LICENSE.txt": "/Demo-cypress/static/js/2.2780c80b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Demo-cypress/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e715695.js",
+    "static/js/2.2780c80b.chunk.js",
+    "static/css/main.e917693d.chunk.css",
+    "static/js/main.654f50af.chunk.js"
+  ]
+}
