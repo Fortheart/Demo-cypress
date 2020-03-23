@@ -8,6 +8,7 @@ import {
 import Header from './components/header/header.component';
 import InterestingText from './components/interesting-text/interesting-text.component';
 import Homepage from './components/homepage/homepage.component';
+import About from './components/about/about.component';
 
 import './App.css';
 
@@ -33,8 +34,8 @@ class App extends React.Component {
         <Router>
           <Header />
           <Switch>
-            <Route path="/" component={Homepage} />
-            <Route path="/coolText" component={InterestingText} />
+            <Route path="/" exact component={Homepage} />
+            <Route path="/about" component={About} />
           </Switch>
 
         </Router>

@@ -4,6 +4,8 @@ header{
     height: 70px;
     background-color: #282c34;
     color: white;
+    position: fixed;
+    width: 100%;
     
 }
 .navTag{
@@ -13,7 +15,7 @@ header{
 }
 
 .Header-logo {
-    height: 10vmin;
+    width: 7vmin;
     pointer-events: none;
     float: left;
     margin-right: 40%;
